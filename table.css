@@ -1,0 +1,17 @@
+table,th,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    height: 35px;
+    width: 400px;
+    text-align: center;
+    background-color: burlywood;
+    
+    
+}
+.asd:hover{
+    background-color: burlywood;
+
+}
+table:nth-child(even){
+    background-color: cadetblue;
+}
